@@ -4,6 +4,8 @@
   "description": "A light and dark themes imitating the colors of Arduino IDE",
   "version": "1.0.0",
   "publisher": "BarrtyG",
+  "license": "MIT",
+	"author": "Artem Abramtsov [@BarrtyG]",
   "icon": "ALT-logo.png",
   "repository": {
     "type": "git",
@@ -12,6 +14,7 @@
   "keywords": [
     "theme",
     "light theme",
+    "dark theme",
     "arduino",
     "turquoise",
     "turquoise theme",
