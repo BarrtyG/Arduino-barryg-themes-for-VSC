@@ -1,13 +1,13 @@
 {
-  "name": "arduino-theme-l",
+  "name": "arduino-barrtyg-themes",
   "displayName": "Arduino theme L",
-  "description": "A light theme imitating the colors of Arduino IDE",
+  "description": "A light and dark themes imitating the colors of Arduino IDE",
   "version": "1.0.0",
   "publisher": "BarrtyG",
   "icon": "ALT-logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BarrtyG/Arduino-light-theme-for-VSC"
+    "url": "https://github.com/BarrtyG/Arduino-barryg-themes-for-VSC"
   },
   "keywords": [
     "theme",
@@ -26,9 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Arduino theme L",
-        "uiTheme": "hc-light",
-        "path": "./themes/Arduino theme L-color-theme.json"
+        "label": "Arduino L theme",
+        "uiTheme": "vs",
+        "path": "./themes/Arduino light theme.json"
+      },
+      {
+        "label": "Arduino D theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arduino dark theme.json"
       }
     ]
   }
