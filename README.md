@@ -1,16 +1,18 @@
-# arduino-theme-l README
+# Arduino themes by Barrtyg
+Light and dark themes that mimic the colors of the old Arduino IDE 1.8.
 
-## Working with Markdown
+All themes are made in [themes.vscode.one](https://themes.vscode.one/)
+You can download them from the links:
+* [Light](http://code.visualstudio.com/docs/languages/markdown)
+* [Dark](https://themes.vscode.one/theme/BarrtyG/nVc3uUjA)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Before
+![Arduino light screenshot old.png](./images/Light%20screenshot%20old.png)
+### After
+![Arduino light screenshot.png](./images/Light%20screenshot.png)
+![Arduino dark screenshot.png](./images/Light%20screenshot.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Arduino Theme Modified and imported from [GitHub](https://github.com/BarrtyG/Arduino-barryg-themes-for-VSC/tree/main).
+*Due to the work in the editor, various visual errors are possible.*
 
 **Enjoy!**
