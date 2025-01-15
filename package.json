@@ -1,0 +1,43 @@
+{
+  "name": "arduino-barrtyg-themes",
+  "displayName": "Arduino BarrtyG themes",
+  "description": "Light and dark themes that mimic the colors of the old Arduino IDE 1.8",
+  "version": "2.0.0",
+  "publisher": "BarrtyG",
+  "license": "MIT",
+  "author": "Artem Abramtsov [@BarrtyG]",
+  "icon": "./images/Light icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BarrtyG/Arduino-barryg-themes-for-VSC"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "dark theme",
+    "arduino",
+    "turquoise",
+    "turquoise theme",
+    "BarrtyG"
+  ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arduino L theme",
+        "uiTheme": "vs",
+        "path": "./themes/Arduino light theme.json"
+      },
+      {
+        "label": "Arduino D theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arduino dark theme.json"
+      }
+    ]
+  }
+}
