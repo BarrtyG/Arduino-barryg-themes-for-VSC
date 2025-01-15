@@ -10,7 +10,7 @@ You can download them from the links:
 ![Arduino light screenshot old.png](./images/Light%20screenshot%20old.png)
 ### After
 ![Arduino light screenshot.png](./images/Light%20screenshot.png)
-![Arduino dark screenshot.png](./images/Light%20screenshot.png)
+![Arduino dark screenshot.png](./images/Dark%20screenshot.png)
 
 Arduino Theme Modified and imported from [GitHub](https://github.com/BarrtyG/Arduino-barryg-themes-for-VSC/tree/main).
 *Due to the work in the editor, various visual errors are possible.*
