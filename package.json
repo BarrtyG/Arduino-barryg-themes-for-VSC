@@ -1,12 +1,12 @@
 {
   "name": "arduino-barrtyg-themes",
   "displayName": "Arduino BarrtyG themes",
-  "description": "A light and dark themes imitating the colors of Arduino IDE",
+  "description": "Light and dark themes that mimic the colors of the old Arduino IDE 1.8",
   "version": "1.1.0",
   "publisher": "BarrtyG",
   "license": "MIT",
   "author": "Artem Abramtsov [@BarrtyG]",
-  "icon": "ALT-logo.png",
+  "icon": "./images/Light icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/BarrtyG/Arduino-barryg-themes-for-VSC"
