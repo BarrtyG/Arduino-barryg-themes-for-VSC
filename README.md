@@ -1,4 +1,4 @@
-# Arduino themes by Barrtyg
+# Arduino themes for VSC by Barrtyg
 Light and dark themes that mimic the colors of the old Arduino IDE 1.8.
 
 All themes are made in [themes.vscode.one](https://themes.vscode.one/)
