@@ -17,10 +17,10 @@ I can't update the theme on the marketplace due to the sanctions, so read the in
 ![Arduino light screenshot.png](./images/Light%20screenshot.png)
 ![Arduino dark screenshot.png](./images/Dark%20screenshot.png)
 
-*Due to the work in the editor, various visual errors are possible!*<br/>
 All themes are made in [themes.vscode.one](https://themes.vscode.one/).<br/>
 You can download only themes [here (Light)](http://code.visualstudio.com/docs/languages/markdown) and [here (Dark)](https://themes.vscode.one/theme/BarrtyG/nVc3uUjA).
 
 Arduino Theme Modified and imported from [GitHub](https://github.com/BarrtyG/Arduino-themes-for-VSC).
+*Due to the work in the editor, various visual errors are possible!*
 
 *Enjoy!*
