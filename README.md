@@ -14,9 +14,9 @@ Light and dark themes that mimic the colors of the old Arduino IDE 1.8.
 ![Arduino light screenshot.png](./images/Light%20screenshot.png)
 ![Arduino dark screenshot.png](./images/Dark%20screenshot.png)
 
-*Due to the work in the editor, various visual errors are possible!*\n
-All themes are made in [themes.vscode.one](https://themes.vscode.one/).\n
-You can download only themes [here (Light)](http://code.visualstudio.com/docs/languages/markdown) and [here (Dark)](https://themes.vscode.one/theme/BarrtyG/nVc3uUjA).\n
+*Due to the work in the editor, various visual errors are possible!* 
+All themes are made in [themes.vscode.one](https://themes.vscode.one/). 
+You can download only themes [here (Light)](http://code.visualstudio.com/docs/languages/markdown) and [here (Dark)](https://themes.vscode.one/theme/BarrtyG/nVc3uUjA). 
 
 Arduino Theme Modified and imported from [GitHub](https://github.com/BarrtyG/Arduino-themes-for-VSC).
 
