@@ -11,10 +11,11 @@ Arduino Theme Modified and imported from [GitHub](https://github.com/BarrtyG/Ard
 *Due to the work in the editor, various visual errors are possible.*
 
 ### Installation
-1. Unpack barrtyg.arduino-themes-for-vsc.zip in:
+1. Download [barrtyg.arduino-themes-for-vsc.zip](https://github.com/BarrtyG/Arduino-themes-for-VSC/releases/tag/Main)
+2. Unpack in:
 * Windows: `%USERPROFILE%\.vscode\extensions`
 * MacOS: `~/.vscode/extensions`
 * Linux: `~/.vscode/extensions`
-2. In the extensions tab `(CTRL + SHIFT + X)` find `Arduino barrtyg themes`
-3. Set and select a color theme
+3. In the extensions tab `(CTRL + SHIFT + X)` find `Arduino barrtyg themes`
+4. Set and select a color theme
 *Enjoy!*
