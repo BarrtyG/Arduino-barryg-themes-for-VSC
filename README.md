@@ -2,7 +2,7 @@
 Light and dark themes that mimic the colors of the old Arduino IDE 1.8.
 ### Installation
 1. Download [barrtyg.arduino-themes-for-vsc.zip](https://github.com/BarrtyG/Arduino-themes-for-VSC/releases/tag/Main)
-2. Unpack in:
+2. Unpack the contents in
 * Windows: `%USERPROFILE%\.vscode\extensions`
 * MacOS: `~/.vscode/extensions`
 * Linux: `~/.vscode/extensions`
